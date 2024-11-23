@@ -1,0 +1,73 @@
+"Year","Province","Edu_Level","Status","Income","Tuition","Ratio"
+2010,"Alberta","UnderGraduate","Canadian",80700,5240,15.4007633587786
+2010,"British Columbia","UnderGraduate","Canadian",64100,4706,13.6209094772631
+2010,"Manitoba","UnderGraduate","Canadian",67000,3408,19.6596244131455
+2010,"New Brunswick","UnderGraduate","Canadian",61900,5516,11.2218999274837
+2010,"Newfoundland and Labrador","UnderGraduate","Canadian",71500,2624,27.2484756097561
+2010,"Nova Scotia","UnderGraduate","Canadian",60500,5752,10.5180806675939
+2010,"Ontario","UnderGraduate","Canadian",62900,5979,10.5201538718849
+2010,"Quebec","UnderGraduate","Canadian",60200,2309,26.0718925941966
+2010,"Saskatchewan","UnderGraduate","Canadian",78900,5173,15.2522714092403
+2011,"Alberta","UnderGraduate","Canadian",77500,5505,14.078110808356
+2011,"British Columbia","UnderGraduate","Canadian",63600,4758,13.3669609079445
+2011,"Manitoba","UnderGraduate","Canadian",67400,3593,18.7586974672975
+2011,"New Brunswick","UnderGraduate","Canadian",60500,5647,10.7136532672215
+2011,"Newfoundland and Labrador","UnderGraduate","Canadian",70900,2649,26.7648169120423
+2011,"Nova Scotia","UnderGraduate","Canadian",59900,5497,10.8968528288157
+2011,"Ontario","UnderGraduate","Canadian",62600,6316,9.91133628879037
+2011,"Quebec","UnderGraduate","Canadian",60000,2411,24.885939444214
+2011,"Saskatchewan","UnderGraduate","Canadian",76400,5431,14.0673909040692
+2012,"Alberta","UnderGraduate","Canadian",77100,5663,13.6146918594385
+2012,"British Columbia","UnderGraduate","Canadian",65000,4919,13.2140678999797
+2012,"Manitoba","UnderGraduate","Canadian",67100,3638,18.4442001099505
+2012,"New Brunswick","UnderGraduate","Canadian",63400,5728,11.0684357541899
+2012,"Newfoundland and Labrador","UnderGraduate","Canadian",70400,2649,26.5760664401661
+2012,"Nova Scotia","UnderGraduate","Canadian",61300,5722,10.7130373995107
+2012,"Ontario","UnderGraduate","Canadian",63000,6815,9.24431401320616
+2012,"Quebec","UnderGraduate","Canadian",60900,2520,24.1666666666667
+2012,"Saskatchewan","UnderGraduate","Canadian",76200,5734,13.2891524241367
+2013,"Alberta","UnderGraduate","Canadian",76400,5670,13.4744268077601
+2013,"British Columbia","UnderGraduate","Canadian",65300,4931,13.2427499493003
+2013,"Manitoba","UnderGraduate","Canadian",67900,3720,18.252688172043
+2013,"New Brunswick","UnderGraduate","Canadian",63200,5940,10.6397306397306
+2013,"Newfoundland and Labrador","UnderGraduate","Canadian",71400,2644,27.0045385779123
+2013,"Nova Scotia","UnderGraduate","Canadian",62300,5977,10.4232892755563
+2013,"Ontario","UnderGraduate","Canadian",64000,6975,9.17562724014337
+2013,"Quebec","UnderGraduate","Canadian",61200,2565,23.859649122807
+2013,"Saskatchewan","UnderGraduate","Canadian",74000,6106,12.1192269898461
+2014,"Alberta","UnderGraduate","Canadian",75900,5675,13.374449339207
+2014,"British Columbia","UnderGraduate","Canadian",66600,5018,13.2722200079713
+2014,"Manitoba","UnderGraduate","Canadian",66900,3790,17.6517150395778
+2014,"New Brunswick","UnderGraduate","Canadian",65300,6112,10.6839005235602
+2014,"Newfoundland and Labrador","UnderGraduate","Canadian",70800,2631,26.9099201824401
+2014,"Nova Scotia","UnderGraduate","Canadian",63400,6215,10.201126307321
+2014,"Ontario","UnderGraduate","Canadian",65100,7257,8.97064902852418
+2014,"Quebec","UnderGraduate","Canadian",62400,2657,23.4851336093338
+2014,"Saskatchewan","UnderGraduate","Canadian",74100,6402,11.5745079662605
+2015,"Alberta","UnderGraduate","Canadian",74000,5738,12.8964796096201
+2015,"British Columbia","UnderGraduate","Canadian",68700,5201,13.2089982695635
+2015,"Manitoba","UnderGraduate","Canadian",67600,3857,17.5265750583355
+2015,"New Brunswick","UnderGraduate","Canadian",64700,6298,10.2731025722452
+2015,"Newfoundland and Labrador","UnderGraduate","Canadian",71300,2660,26.8045112781955
+2015,"Nova Scotia","UnderGraduate","Canadian",64700,6483,9.97994755514422
+2015,"Ontario","UnderGraduate","Canadian",66300,7562,8.76752181962444
+2015,"Quebec","UnderGraduate","Canadian",63800,2740,23.2846715328467
+2015,"Saskatchewan","UnderGraduate","Canadian",75100,6693,11.2206783206335
+2016,"Alberta","UnderGraduate","Canadian",74100,5739,12.9116570831155
+2016,"British Columbia","UnderGraduate","Canadian",69800,5397,12.9331109875857
+2016,"Manitoba","UnderGraduate","Canadian",70300,4013,17.5180662845751
+2016,"New Brunswick","UnderGraduate","Canadian",65900,6379,10.3307728484088
+2016,"Newfoundland and Labrador","UnderGraduate","Canadian",73100,2759,26.4951069227981
+2016,"Nova Scotia","UnderGraduate","Canadian",66100,6834,9.67222709979514
+2016,"Ontario","UnderGraduate","Canadian",68800,7865,8.74761602034329
+2016,"Quebec","UnderGraduate","Canadian",65900,2797,23.5609581694673
+2016,"Saskatchewan","UnderGraduate","Canadian",74200,6978,10.6334193178561
+2017,"Alberta","UnderGraduate","Canadian",72400,5742,12.6088470916057
+2017,"British Columbia","UnderGraduate","Canadian",68100,5523,12.3302552960348
+2017,"Manitoba","UnderGraduate","Canadian",67000,4099,16.3454501097829
+2017,"New Brunswick","UnderGraduate","Canadian",64500,6714,9.60679177837355
+2017,"Newfoundland and Labrador","UnderGraduate","Canadian",70000,2752,25.4360465116279
+2017,"Nova Scotia","UnderGraduate","Canadian",64200,7322,8.76809614859328
+2017,"Ontario","UnderGraduate","Canadian",67800,8154,8.3149374540103
+2017,"Quebec","UnderGraduate","Canadian",66200,2817,23.5001774937877
+2017,"Saskatchewan","UnderGraduate","Canadian",72600,7042,10.3095711445612

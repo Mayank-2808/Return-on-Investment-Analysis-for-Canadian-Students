@@ -1,0 +1,73 @@
+"Year","Province","Edu_Level","Status","Income","Tuition","Ratio"
+2010,"Alberta","Graduate","International",93800,9272,10.1164797238999
+2010,"British Columbia","Graduate","International",61300,9794,6.25893404124974
+2010,"Manitoba","Graduate","International",67900,7814,8.68953160993089
+2010,"New Brunswick","Graduate","International",60100,8978,6.69414123412787
+2010,"Newfoundland and Labrador","Graduate","International",57400,2790,20.573476702509
+2010,"Nova Scotia","Graduate","International",61000,14580,4.1838134430727
+2010,"Ontario","Graduate","International",75700,14140,5.35360678925035
+2010,"Quebec","Graduate","International",65300,12801,5.10116397156472
+2010,"Saskatchewan","Graduate","International",85200,2800,30.4285714285714
+2011,"Alberta","Graduate","International",83700,9408,8.89668367346939
+2011,"British Columbia","Graduate","International",60200,10930,5.50777676120769
+2011,"Manitoba","Graduate","International",71900,8204,8.76401755241346
+2011,"New Brunswick","Graduate","International",69800,8965,7.78583379810374
+2011,"Newfoundland and Labrador","Graduate","International",51800,2790,18.5663082437276
+2011,"Nova Scotia","Graduate","International",75800,14325,5.29144851657941
+2011,"Ontario","Graduate","International",75300,14920,5.04691689008043
+2011,"Quebec","Graduate","International",68700,14623,4.69807836969158
+2011,"Saskatchewan","Graduate","International",78300,3517,22.2632925789025
+2012,"Alberta","Graduate","International",88300,9439,9.35480453437864
+2012,"British Columbia","Graduate","International",65200,11258,5.79143720021318
+2012,"Manitoba","Graduate","International",68100,8287,8.21769035839266
+2012,"New Brunswick","Graduate","International",63000,9201,6.84708183893055
+2012,"Newfoundland and Labrador","Graduate","International",62300,2789,22.3377554679096
+2012,"Nova Scotia","Graduate","International",73300,15071,4.86364541171787
+2012,"Ontario","Graduate","International",79000,15943,4.95515273160635
+2012,"Quebec","Graduate","International",65400,14276,4.58111515830765
+2012,"Saskatchewan","Graduate","International",71800,3900,18.4102564102564
+2013,"Alberta","Graduate","International",84000,9481,8.85982491298386
+2013,"British Columbia","Graduate","International",70700,11523,6.13555497700252
+2013,"Manitoba","Graduate","International",78500,8558,9.17270390278102
+2013,"New Brunswick","Graduate","International",74900,9574,7.82327135993315
+2013,"Newfoundland and Labrador","Graduate","International",68500,2826,24.2392073602265
+2013,"Nova Scotia","Graduate","International",68300,15739,4.33953872545905
+2013,"Ontario","Graduate","International",79400,16655,4.7673371359952
+2013,"Quebec","Graduate","International",72800,14322,5.0830889540567
+2013,"Saskatchewan","Graduate","International",76200,5090,14.9705304518664
+2014,"Alberta","Graduate","International",85400,9570,8.92371995820272
+2014,"British Columbia","Graduate","International",72100,12383,5.82249858677219
+2014,"Manitoba","Graduate","International",68600,8674,7.90869264468527
+2014,"New Brunswick","Graduate","International",69500,9994,6.9541725035021
+2014,"Newfoundland and Labrador","Graduate","International",59200,2848,20.7865168539326
+2014,"Nova Scotia","Graduate","International",77200,15928,4.84681064791562
+2014,"Ontario","Graduate","International",78200,17818,4.38882029408463
+2014,"Quebec","Graduate","International",71600,13760,5.20348837209302
+2014,"Saskatchewan","Graduate","International",72900,4815,15.1401869158879
+2015,"Alberta","Graduate","International",83200,9748,8.53508411981945
+2015,"British Columbia","Graduate","International",80000,11869,6.74024770410313
+2015,"Manitoba","Graduate","International",65000,8877,7.32229356764673
+2015,"New Brunswick","Graduate","International",75300,10368,7.26273148148148
+2015,"Newfoundland and Labrador","Graduate","International",75000,2822,26.5768958185684
+2015,"Nova Scotia","Graduate","International",71200,16482,4.31986409416333
+2015,"Ontario","Graduate","International",78500,18816,4.17198129251701
+2015,"Quebec","Graduate","International",73800,14051,5.25229521030532
+2015,"Saskatchewan","Graduate","International",84100,5212,16.1358403683807
+2016,"Alberta","Graduate","International",86200,8993,9.58523295896809
+2016,"British Columbia","Graduate","International",79800,12877,6.1970955968005
+2016,"Manitoba","Graduate","International",71300,10032,7.10725677830941
+2016,"New Brunswick","Graduate","International",82200,10432,7.87960122699386
+2016,"Newfoundland and Labrador","Graduate","International",79000,2810,28.1138790035587
+2016,"Nova Scotia","Graduate","International",73300,16601,4.41539666285164
+2016,"Ontario","Graduate","International",82500,19928,4.13990365315134
+2016,"Quebec","Graduate","International",77100,14330,5.38032100488486
+2016,"Saskatchewan","Graduate","International",69700,5513,12.6428441864683
+2017,"Alberta","Graduate","International",82900,9127,9.08294072532048
+2017,"British Columbia","Graduate","International",79500,14824,5.36292498650837
+2017,"Manitoba","Graduate","International",77900,10149,7.67563306729727
+2017,"New Brunswick","Graduate","International",81100,10975,7.38952164009112
+2017,"Newfoundland and Labrador","Graduate","International",76700,3174,24.1650913673598
+2017,"Nova Scotia","Graduate","International",73900,17662,4.18412410825501
+2017,"Ontario","Graduate","International",84100,21263,3.9552273903024
+2017,"Quebec","Graduate","International",76200,14555,5.23531432497424
+2017,"Saskatchewan","Graduate","International",78300,5807,13.4837265369382
